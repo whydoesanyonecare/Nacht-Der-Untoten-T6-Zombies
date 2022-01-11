@@ -1,0 +1,1 @@
+explorer "%localappdata%\Plutonium\storage\t6\scripts\zm"

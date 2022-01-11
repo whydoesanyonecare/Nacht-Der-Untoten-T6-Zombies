@@ -10,6 +10,8 @@ WARNING: Explosive barrels can kill player.
 
 #LEGACY MODE
 
+Used some parts from Bandits Legacy mode release.
+
 legacy mode can be enabled by typing 'set legacy 1' in console
 
 In legacy mode there is no perk machine or pack a punch area and zombies amount has been limited to 24 each round also zombies cant attack behind barriers anymore.

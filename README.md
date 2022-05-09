@@ -6,8 +6,7 @@
 # This is Nacht Der Untoten Custom Survival Map for Black ops 2 Zombies
 
 UPDATE: 
-```
-nacht der untoten [updated].gsc file is updated version with little fixes and upgrades. The file is also included with aim assist which is only enabled if player is using controller. (nacht_t6_zombies.gsc still work if you want to play with controller without aim assist)
+``` nacht der untoten [updated].gsc file is updated version with little fixes and upgrades. The file is also included with aim assist which is only enabled if player is using controller. (nacht_t6_zombies.gsc still work if you want to play with controller without aim assist)
 ```
 
 INSTALL FOR PLUTONIUM: 

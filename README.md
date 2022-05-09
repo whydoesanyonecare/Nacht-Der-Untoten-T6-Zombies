@@ -1,4 +1,7 @@
-# Nacht Der Untoten T6 Zombies [ PC version ] [ Compiled ]
+# Nacht Der Untoten T6 Zombies [ Compiled PC version ] 
+
+![kuva](https://user-images.githubusercontent.com/77815199/167409951-40cff3fd-b123-46d7-850a-d826b4bb5757.png)
+
 
 UPDATE: nacht der untoten [updated].gsc file is updated version with little fixes and upgrades. The file is also included with aim assist which is only enabled if player is using controller. (nacht_t6_zombies.gsc still work if you want to play with controller without aim assist)
 

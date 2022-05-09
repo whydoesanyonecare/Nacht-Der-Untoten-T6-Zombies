@@ -5,18 +5,12 @@
 
 # This is Nacht Der Untoten Custom Survival Map for Black ops 2 Zombies
 
-UPDATE: 
-``` 
-nacht der untoten [updated].gsc file is updated version with little fixes and upgrades. 
+UPDATE: nacht der untoten [updated].gsc file is updated version with little fixes and upgrades. 
 The file is also included with aim assist which is only enabled if player is using controller. 
 (nacht_t6_zombies.gsc still work if you want to play with controller without aim assist)
-```
 
-INSTALL FOR PLUTONIUM: 
-```
-run double_click_to_open_installion_folder.bat file which opens installion folder for Plutonium bo2 then copy nacht_t6_zombies.gsc or nacht der untoten [updated].gsc to that folder. 
-after this you are done and you can start the game. this map work in transit green run.
-```
+INSTALL FOR PLUTONIUM: run double_click_to_open_installion_folder.bat file which opens installion folder for Plutonium bo2 then copy nacht_t6_zombies.gsc or nacht der untoten [updated].gsc to that folder. after this you are done and you can start the game. this map work in transit green run.
+
 
 Added Round fix which allows go over round 255.
 

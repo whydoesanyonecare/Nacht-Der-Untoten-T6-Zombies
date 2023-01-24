@@ -11,8 +11,7 @@ The file is also included with aim assist which is only enabled if player is usi
 
 INSTALL FOR PLUTONIUM: run double_click_to_open_installion_folder.bat file which opens installion folder for Plutonium bo2 then copy nacht_t6_zombies.gsc or nacht der untoten [updated].gsc to that folder. after this you are done and you can start the game. this map work in transit green run.
 
-ALTERNATIVE INSTALL: Copy compiled script to ```%localappdata%\Plutonium\storage\t6\scripts\zm``` folder.
-
+**ALTERNATIVE PLUTONIUM INSTALL**: Copy compiled script to ```%localappdata%\Plutonium\storage\t6\scripts\zm``` folder.
 
 Added Round fix which allows go over round 255.
 
